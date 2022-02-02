@@ -1,0 +1,9 @@
+Width "Largura"
+Height "Altura"
+
+Max-width "Largura maxima"
+Max-height "Altura maxima"
+
+Margin
+
+Text align "alinhar texo"
