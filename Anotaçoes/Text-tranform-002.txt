@@ -1,0 +1,11 @@
+#title {
+     text-transform: uppercase; "texto em caixa alta "
+}
+
+.subtitle {
+     text-transform: lowercase; "texto em caixa baixa "
+}
+
+.post_title {
+     text-transform: capitalize; "primeira letras de cada palavra em maiuscula "
+}

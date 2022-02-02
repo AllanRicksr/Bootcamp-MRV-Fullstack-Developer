@@ -1,0 +1,16 @@
+#Title {
+     font-style: normal; "fonte normal"
+}
+
+.subtitle {
+     font-style: italic; "força a fonte a ficar em italicol"
+}
+
+
+#title {
+     font-weight: normal; "peso normal da fonte, do jeito que ela foi criado"
+}
+
+.subtitle {
+     font-weight: bold; "negrito"
+}

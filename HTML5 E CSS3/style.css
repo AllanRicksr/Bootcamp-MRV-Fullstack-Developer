@@ -1,10 +1,20 @@
 body {
-    background: rgb(29, 21, 65);
+    background: rgb(56, 49, 77);
+    font-family: 'Times New Roman', Times, serif;
 }
 #title, .subtitle, .post_title {
     color:rgb(0, 0, 0);
-    background: rgb(97, 88, 88);
+    background: rgb(41, 41, 56);
     padding: 10px 5px;
+}
+
+#title {
+    font-size: 40px;
+    text-transform: uppercase;
+}
+a {
+    text-decoration: underline;
+    color:aqua;
 }
 
 .post_title {
@@ -33,7 +43,15 @@ body {
 .post_content {
     margin: 0;
     margin-bottom: 15px;
+    text-transform: capitalize;
 }
 .folder {
-    background: #fff;
+    background: rgb(63, 64, 122);
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+.folder li a {
+    color: blue;
+    text-decoration: none;
 }

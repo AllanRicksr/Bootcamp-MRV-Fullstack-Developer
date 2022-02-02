@@ -1,0 +1,16 @@
+
+ul {
+   lsit-style-type: square; " atera o simbolo pra um quadrado" "lista não ordenado"
+}
+
+ol {
+   lsit-style-type: upper-roman; "altera o marcador para um algarismo romano" "lista ordenada"
+}
+
+ul {
+   lsit-style-type: "\1F33D"; "mocador por um sibulo(emoji)" "lista não ordenado"
+} 
+
+ul {
+   lsit-style-image: url"rocket.png"; "altera o marcado por uma imagen" "lista não ordenado"
+} 
