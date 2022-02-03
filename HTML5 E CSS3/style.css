@@ -1,4 +1,4 @@
-body {
+/* body {
     background: rgb(56, 49, 77);
     font-family: 'Times New Roman', Times, serif;
     max-width: 900px;
@@ -16,10 +16,8 @@ body {
     text-align: center;
     color: rgb(0, 0, 0);
 }
-a {
-    text-decoration: underline;
-    color:aqua;
-}
+ 
+} 
 
 .post_title {
     font: 160px;
@@ -59,4 +57,4 @@ a {
 .folder li a {
     color: blue;
     text-decoration: none;
-}
+} */
