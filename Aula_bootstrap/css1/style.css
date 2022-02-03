@@ -1,9 +1,29 @@
+body{
+    font:20px Arial, sans-serif;
+}
+
 .navbar {
     background-color: rgb(13, 114, 52);
+    border: 1px solid rgb(0, 0, 0);
+
+}
+
+.nav-iten{
+    background-color: blue;
+    border: 5px solid black;
+    border-radius: 100%;
 }
 
 .quem-somos {
     background-color: rgb(40, 32, 153);
     padding-top: 15px;
+    padding-bottom: 50;
+    color: black;
+}
+
+.parceiros {
+    background-color: rgb(40, 32, 153);
+    padding-top: 15px;
+    padding-bottom: 50;
     color: black;
 }
