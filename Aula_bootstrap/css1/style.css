@@ -8,22 +8,23 @@ body{
 
 }
 
-.nav-iten{
+/* .nav-iten{
     background-color: blue;
     border: 5px solid black;
     border-radius: 100%;
-}
+} */
 
 .quem-somos {
     background-color: rgb(40, 32, 153);
-    padding-top: 15px;
-    padding-bottom: 50;
     color: black;
 }
 
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
 .parceiros {
-    background-color: rgb(40, 32, 153);
-    padding-top: 15px;
-    padding-bottom: 50;
+    background-color: rgba(36, 1, 58, 0.719);
     color: black;
 }
